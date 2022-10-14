@@ -1,2 +1,2 @@
-Conhecendo git e github
+beacademy-fromzerotohero-gitgithub
 
